@@ -12,7 +12,7 @@ jobs:
   update-social:
     runs-on: ubuntu-latest
     steps:
-      - uses: zylele/social-readme@master
+      - uses: imzusheng/social-readme@master
         with:
-          blog_rss_link: your blog rss link
-          douban_name: your douban username
+          # blog_rss_link: your blog rss link
+          douban_name: 190407051
