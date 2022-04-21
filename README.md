@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 #### 🤹‍♀️ <a href="https://blog.zusheng.club/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>Vue3 + Typescript + Vite 仿 Apple Music</a> - 2022-4-21
+* <a href='https://blog.zusheng.club/Blog/Detail?_id=6257ca3adccd7d03d37e93ad' target='_blank'>Vue3 实现列表虚拟滚动</a> - 2022-4-16
 * <a href='https://blog.zusheng.club/Blog/Detail?_id=623d8f194c5813a16dccfe8f' target='_blank'>Nodejs上解码Bilibili Protobuf弹幕</a> - 2022-3-25
 * <a href='https://blog.zusheng.club/Blog/Detail?_id=61dfabfa4c5813a16dccfe88' target='_blank'>关于WebSocket无端断开 | 被自己蠢到的一天</a> - 2022-1-13
 * <a href='https://blog.zusheng.club/Blog/Detail?_id=61d5bea64c5813a16dccfe85' target='_blank'>大文件分片上传</a> - 2022-1-06
