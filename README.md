@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 <!-- START_SECTION:blog -->
 * <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>从 React 状态更新竞态问题，聊聊 JavaScript 事件循环那些事</a> - 2025-4-09
-* <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>兼容性大冒险/a> - 2024-01-26
+* <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>兼容性大冒险：如何在多浏览器环境中确保项目稳定运行</a> - 2024-01-26
 * <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>Tauri 应用自动更新 | Updater</a> - 2024-1-26
 * <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>Vue3 + vite + pinia + ts 实现网易云音乐小程序、h5 等多端应用，基于 uni-app</a> - 2022-5-17
 * <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>Vue3 + Typescript + Vite 仿 Apple Music</a> - 2022-4-21
