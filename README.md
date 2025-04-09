@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <tr>
 <td valign="middle" width="50%">
 
-:house: [zusheng.club](https://zusheng.club) [blog.zusheng.club](https://blog.zusheng.club)<br/>
+:house: [zusheng.cc](https://zusheng.cc) [blog.zusheng.club](https://blog.zusheng.cc)<br/>
 :pencil2: JavaScript/Nodejs/Java<br/>
 :email: imzusheng@163.com<br/>
 
@@ -28,9 +28,13 @@ Here are some ideas to get you started:
 <tr>
 <td valign="top" width="50%">
 
-#### 🤹‍♀️ <a href="https://blog.zusheng.club/" target="_blank">Recent Blog</a>
+#### 🤹‍♀️ <a href="https://blog.zusheng.cc/" target="_blank">Recent Blog</a>
 
 <!-- START_SECTION:blog -->
+* <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>从 React 状态更新竞态问题，聊聊 JavaScript 事件循环那些事</a> - 2025-4-09
+* <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>兼容性大冒险/a> - 2024-01-26
+* <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>Tauri 应用自动更新 | Updater</a> - 2024-1-26
+* <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>Vue3 + vite + pinia + ts 实现网易云音乐小程序、h5 等多端应用，基于 uni-app</a> - 2022-5-17
 * <a href='https://blog.zusheng.club/Blog/Detail?_id=6261568ddccd7d03d37e93af' target='_blank'>Vue3 + Typescript + Vite 仿 Apple Music</a> - 2022-4-21
 * <a href='https://blog.zusheng.club/Blog/Detail?_id=6257ca3adccd7d03d37e93ad' target='_blank'>Vue3 实现列表虚拟滚动</a> - 2022-4-16
 * <a href='https://blog.zusheng.club/Blog/Detail?_id=623d8f194c5813a16dccfe8f' target='_blank'>Nodejs上解码Bilibili Protobuf弹幕</a> - 2022-3-25
