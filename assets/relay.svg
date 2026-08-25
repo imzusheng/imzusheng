@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="340" viewBox="0 0 960 340" role="img" aria-labelledby="title desc">
+  <title id="title">Relay — abstract hand-drawn AI client</title>
+  <desc id="desc">Two abstract mobile panels showing a streaming conversation and a drawer.</desc>
+  <defs>
+    <filter id="rough" x="-10%" y="-10%" width="120%" height="120%">
+      <feTurbulence type="fractalNoise" baseFrequency=".015" numOctaves="2" seed="4" result="noise"/>
+      <feDisplacementMap in="SourceGraphic" in2="noise" scale="1.25"/>
+    </filter>
+    <style>
+      .ink{stroke:#302e29;stroke-width:2;fill:none;stroke-linecap:round;stroke-linejoin:round}
+      .copy{font:500 18px -apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;fill:#302e29}
+      .muted{font:12px ui-monospace,SFMono-Regular,Menlo,monospace;fill:#756e62}
+    </style>
+  </defs>
+  <rect width="960" height="340" rx="22" fill="#fffaf0"/>
+  <text class="copy" x="52" y="50">Relay</text>
+  <text class="muted" x="52" y="74">conversation · runtime · streaming · recovery</text>
+  <g filter="url(#rough)" transform="translate(112 90)">
+    <rect x="0" y="0" width="280" height="210" rx="26" fill="#fffdf7" stroke="#302e29" stroke-width="2"/>
+    <rect x="18" y="18" width="244" height="28" rx="12" fill="#f4eddf" stroke="#302e29" stroke-width="1.5"/>
+    <path class="ink" d="M37 32h34M118 32h83" opacity=".78"/>
+    <circle cx="236" cy="32" r="4.2" fill="#c97932"><animate attributeName="opacity" values=".55;1;.55" dur="4.6s" repeatCount="indefinite"/></circle>
+    <g opacity=".3"><animate attributeName="opacity" values=".28;1;1;.42" dur="8.4s" repeatCount="indefinite"/><path class="ink" d="M30 74h107M30 90h162M30 106h142"/></g>
+    <g opacity=".32"><animate attributeName="opacity" values=".25;.25;1;1;.4" keyTimes="0;.18;.30;.78;1" dur="8.4s" repeatCount="indefinite"/><rect x="28" y="122" width="144" height="38" rx="12" fill="#efe7d7" stroke="#302e29" stroke-width="1.5"/><path class="ink" d="M44 138h88M44 150h57" opacity=".7"/></g>
+    <g opacity=".3"><animate attributeName="opacity" values=".25;.25;.25;1;1;.45" keyTimes="0;.35;.48;.58;.86;1" dur="8.4s" repeatCount="indefinite"/><rect x="104" y="167" width="148" height="28" rx="13" fill="#e8eff5" stroke="#302e29" stroke-width="1.5"/><path class="ink" d="M121 181h83" opacity=".7"/></g>
+    <rect x="28" y="174" width="55" height="21" rx="10.5" fill="#f8f2e6" stroke="#302e29" stroke-width="1.3"/>
+    <path d="M44 180v9" stroke="#6683a1" stroke-width="2"><animate attributeName="opacity" values="1;1;.12;.12" dur="1.4s" repeatCount="indefinite"/></path>
+  </g>
+  <g filter="url(#rough)" transform="translate(560 90)">
+    <rect x="0" y="0" width="280" height="210" rx="26" fill="#fffdf7" stroke="#302e29" stroke-width="2"/>
+    <rect x="18" y="18" width="244" height="174" rx="18" fill="#f4eddf" stroke="#302e29" stroke-width="1.5"/>
+    <rect x="34" y="32" width="112" height="22" rx="11" fill="#fffdf7" stroke="#302e29" stroke-width="1.2"/>
+    <g opacity=".82"><path class="ink" d="M38 77h96M38 94h123M38 111h104"/><path class="ink" d="M38 138h117M38 155h97"/></g>
+    <g><animateTransform attributeName="transform" type="translate" values="0 0;-7 0;-7 0;0 0" keyTimes="0;.28;.72;1" dur="10s" repeatCount="indefinite"/><rect x="171" y="58" width="73" height="121" rx="16" fill="#e9dfcb" stroke="#302e29" stroke-width="1.5"/><circle cx="207" cy="79" r="11" fill="#6683a1"/><path class="ink" d="M188 101h37M188 117h37M188 133h26M188 154h33"/><circle cx="236" cy="133" r="3" fill="#c97932"><animate attributeName="cy" values="108;156;108" dur="7.4s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;1;.2" dur="7.4s" repeatCount="indefinite"/></circle></g>
+  </g>
+  <path d="M432 191 C464 177 492 177 526 191" stroke="#c97932" stroke-width="2" fill="none" stroke-dasharray="3 8"><animate attributeName="stroke-dashoffset" values="0;-90" dur="12s" repeatCount="indefinite"/></path>
+</svg>
