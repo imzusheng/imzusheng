@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zusheng.cc">
-    <img src="./assets/hero.svg" width="100%" alt="Zusheng — enter my world" />
+    <img src="./assets/hero.png" width="100%" alt="Zusheng — enter my world" />
   </a>
 </p>
 
